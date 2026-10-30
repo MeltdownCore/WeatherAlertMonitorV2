@@ -18,3 +18,13 @@ Weather Alert Monitor contains a few warnings warning sounds. Feel free to chang
 Weather Alert Monitor contains a FREE radar feature! Check previous and future weather with the radar!
 
 Thanks for reading and I hope you enjoy the app!
+
+# Images
+
+<img width="702" height="882" alt="image" src="https://github.com/user-attachments/assets/a174f3ac-375d-4338-a8df-804831d63d50" />
+
+<img width="702" height="882" alt="image" src="https://github.com/user-attachments/assets/7db8af6a-14a9-4599-afda-10ddb24ba4c3" />
+
+<img width="1052" height="752" alt="image" src="https://github.com/user-attachments/assets/2001bb75-ba86-469b-b15a-f6e874afa949" />
+
+
