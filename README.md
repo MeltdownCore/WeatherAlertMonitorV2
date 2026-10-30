@@ -10,6 +10,9 @@ I don't know much about coding yet but I this, in my book, is good use of AI.
 # How to download?
 Its really simple to download the app, the app runs with python but python is packaged inside the exe. so you shouldn't need to do anything. Just hit download and you should be set to be protected!
 
+# What operating system is this used for?
+Sadly this only works on Windows 11, no MAC, Linux or anything else. You may try to use older windows versions, but I do not guarantee it to work on older versions.
+
 # Setup
 The app will start with random Zip Code. Insert your Zip Code and you are good to go! Please keep in mind this app will only work in the USA. Sorry!
 
