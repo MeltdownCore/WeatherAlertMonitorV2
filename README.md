@@ -19,6 +19,13 @@ Weather Alert Monitor contains a FREE radar feature! Check previous and future w
 
 Thanks for reading and I hope you enjoy the app!
 
+# Licence
+CC BY-NC-ND 4.0
+Attribution-NonCommercial-NoDerivatives 4.0 International
+
+To read the full license you may use and internet browser or read the LICENCE file in github.
+(Licence File: https://github.com/MeltdownCore/WeatherAlertMonitorV2/blob/main/LICENCE)
+
 # Images
 
 <img width="702" height="882" alt="image" src="https://github.com/user-attachments/assets/a174f3ac-375d-4338-a8df-804831d63d50" />
@@ -27,4 +34,4 @@ Thanks for reading and I hope you enjoy the app!
 
 <img width="1052" height="752" alt="image" src="https://github.com/user-attachments/assets/2001bb75-ba86-469b-b15a-f6e874afa949" />
 
-
+https://github.com/MeltdownCore/WeatherAlertMonitorV2
